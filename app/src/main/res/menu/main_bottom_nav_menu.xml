@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/newsFragment"
+        android:icon="@drawable/bottom_one"
+        android:title="Новости" />
+
+    <item
+        android:id="@+id/scheduleFragment"
+        android:icon="@drawable/bottom_two"
+        android:title="Расписание" />
+
+    <item
+        android:id="@+id/fitFragment"
+        android:icon="@drawable/bottom_three"
+        android:title="Тренировки" />
+    <item
+        android:id="@+id/foodFragment"
+        android:icon="@drawable/bottom_four"
+        android:title="Питание" />
+    <item
+        android:id="@+id/statistikeFragment"
+        android:icon="@drawable/bottom_five"
+        android:title="Статистика" />
+
+</menu>
